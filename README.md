@@ -36,7 +36,7 @@ ELS aims to revolutionize the way individuals and businesses post, discover, and
 
 
 ## Getting Started
-To get started with ELS, please refer to the documentation for detailed instructions on setting up your environment, deploying smart contracts, and interacting with the platform.
+To get started with ELS, please refer to the documentation for detailed instructions on setting up your environment, deploying smart contracts, and interacting with us.
 
 
 ## Contributing
