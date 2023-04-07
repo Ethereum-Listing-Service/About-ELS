@@ -1,7 +1,5 @@
 # Ethereum Listing Service (ELS)
-
-
-Introduction  
+  
   
 The Ethereum Listing Service (ELS) is a decentralized, transparent, and permissionless information listing protocol built on the Ethereum blockchain.   
   
